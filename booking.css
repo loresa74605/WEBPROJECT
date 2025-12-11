@@ -1,0 +1,39 @@
+.bookingcontainer{
+    max-width: 450px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 15px;
+    background: #ffffff;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+.bookingcontainer h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.bookingform{
+    display: flex;
+    flex-direction: column;
+}
+.bookingform label{
+    margin-top: 10px;
+    font-weight: 600;
+}
+.bookingform input{
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 8px;
+    border: 1px solid #060404;
+    font-size: 16px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+.bookbutton{
+    margin-top: 20px;
+    background-color: #236026;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 25px;
+    font-size: 18px;
+    font-weight: 600;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
